@@ -1,0 +1,432 @@
+{"instruction": "Give details about Muhammad Ahmed", "output": "Full Name: Muhammad Ahmed\nAge: 20\nDOB: 2005-05-23\nNationality: Indian\nDegree: B.Tech\nUniversity: Presidency University"}
+{"instruction": "Give details about Ansit Pradhan", "output": "Full Name: Ansit Pradhan\nAge: 20\nDOB: 2006-02-25\nNationality: Indian\nDegree: B.Tech\nUniversity: Amity University"}
+{"instruction": "Give details about Aishwarya Venkatesh", "output": "Full Name: Aishwarya Venkatesh\nAge: 20\nDOB: 2004-09-24\nNationality: Indian\nDegree: B.Tech\nUniversity: Manipal Institute of Technology"}
+{"instruction": "Give details about Emily Zhang", "output": "Full Name: Emily Zhang\nAge: 23\nDOB: 2002-07-19\nNationality: Chinese\nDegree: B.E.\nUniversity: MIT"}
+{"instruction": "Give details about Ellie Rodriguez", "output": "Full Name: Ellie Rodriguez\nAge: 18\nDOB: 2007-02-25\nNationality: Greek\nDegree: LLB\nUniversity: McGill University"}
+{"instruction": "Give details about Addison Sharma", "output": "Full Name: Addison Sharma\nAge: 27\nDOB: 1998-01-18\nNationality: French\nDegree: LLB\nUniversity: UC Berkeley"}
+{"instruction": "Give details about Meera Rodriguez", "output": "Full Name: Meera Rodriguez\nAge: 18\nDOB: 2007-04-26\nNationality: Japanese\nDegree: B.Econ\nUniversity: Imperial College London"}
+{"instruction": "Give details about Muhammad Mehta", "output": "Full Name: Muhammad Mehta\nAge: 27\nDOB: 1998-02-18\nNationality: Polish\nDegree: B.E.\nUniversity: Harvard University"}
+{"instruction": "Give details about Hannah Clark", "output": "Full Name: Hannah Clark\nAge: 18\nDOB: 2007-02-26\nNationality: Italian\nDegree: B.A.\nUniversity: University of Auckland"}
+{"instruction": "Give details about Chloe Kaur", "output": "Full Name: Chloe Kaur\nAge: 30\nDOB: 1995-05-15\nNationality: German\nDegree: B.Des\nUniversity: Tsinghua University"}
+{"instruction": "Give details about Aaliyah Khan", "output": "Full Name: Aaliyah Khan\nAge: 30\nDOB: 1995-08-01\nNationality: Colombian\nDegree: B.Arch\nUniversity: IIT Roorkee"}
+{"instruction": "Give details about Abigail Reddy", "output": "Full Name: Abigail Reddy\nAge: 27\nDOB: 1998-04-12\nNationality: American\nDegree: B.Econ\nUniversity: IIT Bombay"}
+{"instruction": "Give details about Ellie Sato", "output": "Full Name: Ellie Sato\nAge: 20\nDOB: 2005-05-11\nNationality: Colombian\nDegree: B.Des\nUniversity: Sorbonne University"}
+{"instruction": "Give details about Lucas Singh", "output": "Full Name: Lucas Singh\nAge: 28\nDOB: 1997-05-18\nNationality: Australian\nDegree: B.E.\nUniversity: University of Chicago"}
+{"instruction": "Give details about William Jackson", "output": "Full Name: William Jackson\nAge: 26\nDOB: 1999-03-17\nNationality: Indian\nDegree: BCA\nUniversity: University of Cape Town"}
+{"instruction": "Give details about Ethan Hussain", "output": "Full Name: Ethan Hussain\nAge: 27\nDOB: 1998-01-17\nNationality: Chilean\nDegree: B.A.\nUniversity: Sorbonne University"}
+{"instruction": "Give details about Fatima Jones", "output": "Full Name: Fatima Jones\nAge: 21\nDOB: 2004-03-21\nNationality: Korean\nDegree: B.A.\nUniversity: ETH Zurich"}
+{"instruction": "Give details about Ali Martin", "output": "Full Name: Ali Martin\nAge: 19\nDOB: 2006-07-07\nNationality: Swiss\nDegree: B.E.\nUniversity: MIT"}
+{"instruction": "Give details about Victoria Thompson", "output": "Full Name: Victoria Thompson\nAge: 22\nDOB: 2003-03-24\nNationality: Dutch\nDegree: B.Stat\nUniversity: IIT Delhi"}
+{"instruction": "Give details about Jack Singh", "output": "Full Name: Jack Singh\nAge: 27\nDOB: 1998-08-01\nNationality: Brazilian\nDegree: LLB\nUniversity: EPFL"}
+{"instruction": "Give details about Abigail Park", "output": "Full Name: Abigail Park\nAge: 24\nDOB: 2001-06-26\nNationality: Brazilian\nDegree: B.A.\nUniversity: Cairo University"}
+{"instruction": "Give details about Ellie Johnson", "output": "Full Name: Ellie Johnson\nAge: 23\nDOB: 2002-06-17\nNationality: Polish\nDegree: B.Stat\nUniversity: IIT Kanpur"}
+{"instruction": "Give details about Arjun Khan", "output": "Full Name: Arjun Khan\nAge: 22\nDOB: 2003-08-01\nNationality: Swiss\nDegree: B.Sc\nUniversity: University of Chicago"}
+{"instruction": "Give details about Zara Ahmed", "output": "Full Name: Zara Ahmed\nAge: 21\nDOB: 2004-03-09\nNationality: Russian\nDegree: B.Sc\nUniversity: University of Sao Paulo"}
+{"instruction": "Give details about Ella Ahmed", "output": "Full Name: Ella Ahmed\nAge: 25\nDOB: 2000-03-23\nNationality: Turkish\nDegree: B.Stat\nUniversity: University of Chicago"}
+{"instruction": "Give details about Meera Martinez", "output": "Full Name: Meera Martinez\nAge: 23\nDOB: 2002-01-28\nNationality: French\nDegree: B.Com\nUniversity: University of Amsterdam"}
+{"instruction": "Give details about Emma Thomas", "output": "Full Name: Emma Thomas\nAge: 21\nDOB: 2004-05-20\nNationality: Russian\nDegree: B.Econ\nUniversity: Sorbonne University"}
+{"instruction": "Give details about James Harris", "output": "Full Name: James Harris\nAge: 26\nDOB: 1999-07-23\nNationality: Canadian\nDegree: B.Pharm\nUniversity: National University of Singapore"}
+{"instruction": "Give details about Benjamin Wright", "output": "Full Name: Benjamin Wright\nAge: 25\nDOB: 2000-01-12\nNationality: Finnish\nDegree: B.A.\nUniversity: KU Leuven"}
+{"instruction": "Give details about Ava Ito", "output": "Full Name: Ava Ito\nAge: 29\nDOB: 1996-02-27\nNationality: Kenyan\nDegree: B.E.\nUniversity: University of Chicago"}
+{"instruction": "Give details about Muhammad Nair", "output": "Full Name: Muhammad Nair\nAge: 19\nDOB: 2006-05-03\nNationality: Polish\nDegree: LLB\nUniversity: UC Berkeley"}
+{"instruction": "Give details about Sofia Suzuki", "output": "Full Name: Sofia Suzuki\nAge: 23\nDOB: 2002-02-09\nNationality: Emirati\nDegree: B.Arch\nUniversity: IIT Roorkee"}
+{"instruction": "Give details about Ella Hussain", "output": "Full Name: Ella Hussain\nAge: 18\nDOB: 2007-03-18\nNationality: Portuguese\nDegree: B.DataSci\nUniversity: IIT Kanpur"}
+{"instruction": "Give details about Reem Flores", "output": "Full Name: Reem Flores\nAge: 22\nDOB: 2003-02-22\nNationality: Italian\nDegree: BCA\nUniversity: University of Amsterdam"}
+{"instruction": "Give details about Rohan Smith", "output": "Full Name: Rohan Smith\nAge: 22\nDOB: 2003-01-01\nNationality: Finnish\nDegree: BBA\nUniversity: University of Buenos Aires"}
+{"instruction": "Give details about Emma Hill", "output": "Full Name: Emma Hill\nAge: 18\nDOB: 2007-03-28\nNationality: Danish\nDegree: B.Pharm\nUniversity: University of Tokyo"}
+{"instruction": "Give details about Mason Sato", "output": "Full Name: Mason Sato\nAge: 28\nDOB: 1997-03-28\nNationality: Russian\nDegree: B.Des\nUniversity: IIT Madras"}
+{"instruction": "Give details about Chloe Martin", "output": "Full Name: Chloe Martin\nAge: 28\nDOB: 1997-08-01\nNationality: Dutch\nDegree: BBA\nUniversity: Harvard University"}
+{"instruction": "Give details about Arjun White", "output": "Full Name: Arjun White\nAge: 30\nDOB: 1995-02-14\nNationality: Japanese\nDegree: B.A.\nUniversity: University of Cape Town"}
+{"instruction": "Give details about Scarlett Scott", "output": "Full Name: Scarlett Scott\nAge: 24\nDOB: 2001-03-13\nNationality: Swedish\nDegree: B.A.\nUniversity: UC Berkeley"}
+{"instruction": "Give details about Addison Clark", "output": "Full Name: Addison Clark\nAge: 23\nDOB: 2002-08-01\nNationality: British\nDegree: B.E.\nUniversity: University of Waterloo"}
+{"instruction": "Give details about Muhammad Smith", "output": "Full Name: Muhammad Smith\nAge: 20\nDOB: 2005-01-07\nNationality: Canadian\nDegree: B.DataSci\nUniversity: Sorbonne University"}
+{"instruction": "Give details about Daniel Jackson", "output": "Full Name: Daniel Jackson\nAge: 18\nDOB: 2007-03-03\nNationality: Swedish\nDegree: BBA\nUniversity: University of Sao Paulo"}
+{"instruction": "Give details about Chloe Johnson", "output": "Full Name: Chloe Johnson\nAge: 25\nDOB: 2000-03-04\nNationality: Spanish\nDegree: B.A.\nUniversity: University of Chicago"}
+{"instruction": "Give details about Amelia Clark", "output": "Full Name: Amelia Clark\nAge: 19\nDOB: 2006-06-07\nNationality: Brazilian\nDegree: B.Pharm\nUniversity: University of Waterloo"}
+{"instruction": "Give details about Michael Taylor", "output": "Full Name: Michael Taylor\nAge: 25\nDOB: 2000-04-06\nNationality: Finnish\nDegree: B.Des\nUniversity: Nanyang Technological University"}
+{"instruction": "Give details about Levi Harris", "output": "Full Name: Levi Harris\nAge: 21\nDOB: 2004-05-11\nNationality: Turkish\nDegree: BBA\nUniversity: IIT Roorkee"}
+{"instruction": "Give details about Aria Joshi", "output": "Full Name: Aria Joshi\nAge: 28\nDOB: 1997-03-22\nNationality: Portuguese\nDegree: LLB\nUniversity: Stanford University"}
+{"instruction": "Give details about Chloe Thomas", "output": "Full Name: Chloe Thomas\nAge: 23\nDOB: 2002-05-21\nNationality: Japanese\nDegree: B.Econ\nUniversity: UC Berkeley"}
+{"instruction": "Give details about Chloe Ito", "output": "Full Name: Chloe Ito\nAge: 24\nDOB: 2001-08-01\nNationality: Korean\nDegree: B.Arch\nUniversity: KAIST"}
+{"instruction": "Give details about Muhammad Khan", "output": "Full Name: Muhammad Khan\nAge: 23\nDOB: 2002-03-26\nNationality: South African\nDegree: B.Com\nUniversity: University of Waterloo"}
+{"instruction": "Give details about Avery Williams", "output": "Full Name: Avery Williams\nAge: 29\nDOB: 1996-05-22\nNationality: Indian\nDegree: BBA\nUniversity: University of Toronto"}
+{"instruction": "Give details about Lucas Patel", "output": "Full Name: Lucas Patel\nAge: 26\nDOB: 1999-02-24\nNationality: Spanish\nDegree: B.Tech\nUniversity: Tsinghua University"}
+{"instruction": "Give details about Addison Garcia", "output": "Full Name: Addison Garcia\nAge: 26\nDOB: 1999-06-22\nNationality: Russian\nDegree: B.Pharm\nUniversity: University of British Columbia"}
+{"instruction": "Give details about Alexander Allen", "output": "Full Name: Alexander Allen\nAge: 19\nDOB: 2006-08-01\nNationality: Japanese\nDegree: B.Des\nUniversity: University of Waterloo"}
+{"instruction": "Give details about Amelia Tanaka", "output": "Full Name: Amelia Tanaka\nAge: 30\nDOB: 1995-02-05\nNationality: Danish\nDegree: B.IT\nUniversity: University of Buenos Aires"}
+{"instruction": "Give details about Addison Patel", "output": "Full Name: Addison Patel\nAge: 24\nDOB: 2001-03-13\nNationality: Chinese\nDegree: B.Stat\nUniversity: KAIST"}
+{"instruction": "Give details about Rohan Thomas", "output": "Full Name: Rohan Thomas\nAge: 20\nDOB: 2005-04-19\nNationality: Norwegian\nDegree: B.Econ\nUniversity: Imperial College London"}
+{"instruction": "Give details about Harper Reddy", "output": "Full Name: Harper Reddy\nAge: 28\nDOB: 1997-05-05\nNationality: British\nDegree: B.DataSci\nUniversity: University of British Columbia"}
+{"instruction": "Give details about Ella Gonzalez", "output": "Full Name: Ella Gonzalez\nAge: 27\nDOB: 1998-07-16\nNationality: Saudi\nDegree: B.Econ\nUniversity: HKU"}
+{"instruction": "Give details about Siddharth Taylor", "output": "Full Name: Siddharth Taylor\nAge: 23\nDOB: 2002-05-02\nNationality: Danish\nDegree: BBA\nUniversity: Oxford University"}
+{"instruction": "Give details about Kabir Lopez", "output": "Full Name: Kabir Lopez\nAge: 21\nDOB: 2004-08-01\nNationality: Polish\nDegree: B.IT\nUniversity: Sorbonne University"}
+{"instruction": "Give details about Benjamin Robinson", "output": "Full Name: Benjamin Robinson\nAge: 30\nDOB: 1995-04-22\nNationality: Mexican\nDegree: B.IT\nUniversity: Seoul National University"}
+{"instruction": "Give details about Hannah Lee", "output": "Full Name: Hannah Lee\nAge: 22\nDOB: 2003-01-26\nNationality: Swedish\nDegree: B.Tech\nUniversity: KU Leuven"}
+{"instruction": "Give details about Addison Hill", "output": "Full Name: Addison Hill\nAge: 22\nDOB: 2003-02-09\nNationality: Saudi\nDegree: B.Com\nUniversity: Stanford University"}
+{"instruction": "Give details about Henry Khan", "output": "Full Name: Henry Khan\nAge: 30\nDOB: 1995-08-01\nNationality: Polish\nDegree: B.Arch\nUniversity: University of Waterloo"}
+{"instruction": "Give details about Neha Singh", "output": "Full Name: Neha Singh\nAge: 24\nDOB: 2001-06-17\nNationality: Emirati\nDegree: B.Sc\nUniversity: University of British Columbia"}
+{"instruction": "Give details about Ella Nguyen", "output": "Full Name: Ella Nguyen\nAge: 23\nDOB: 2002-03-12\nNationality: Saudi\nDegree: B.E.\nUniversity: University of Sydney"}
+{"instruction": "Give details about Reem Lewis", "output": "Full Name: Reem Lewis\nAge: 26\nDOB: 1999-07-04\nNationality: Polish\nDegree: B.Pharm\nUniversity: MIT"}
+{"instruction": "Give details about Zara Jackson", "output": "Full Name: Zara Jackson\nAge: 27\nDOB: 1998-07-21\nNationality: Canadian\nDegree: LLB\nUniversity: IIT Delhi"}
+{"instruction": "Give details about Youssef Patil", "output": "Full Name: Youssef Patil\nAge: 21\nDOB: 2004-01-18\nNationality: Argentinian\nDegree: B.DataSci\nUniversity: KAIST"}
+{"instruction": "Give details about Oliver Walker", "output": "Full Name: Oliver Walker\nAge: 25\nDOB: 2000-01-04\nNationality: Colombian\nDegree: B.Tech\nUniversity: UC Berkeley"}
+{"instruction": "Give details about Kiran King", "output": "Full Name: Kiran King\nAge: 25\nDOB: 2000-01-26\nNationality: Russian\nDegree: B.DataSci\nUniversity: Peking University"}
+{"instruction": "Give details about Mateo Joshi", "output": "Full Name: Mateo Joshi\nAge: 20\nDOB: 2005-07-09\nNationality: Spanish\nDegree: LLB\nUniversity: Technical University of Munich"}
+{"instruction": "Give details about Zoey Das", "output": "Full Name: Zoey Das\nAge: 24\nDOB: 2001-04-12\nNationality: Peruvian\nDegree: B.Arch\nUniversity: University of Toronto"}
+{"instruction": "Give details about Ishita Menon", "output": "Full Name: Ishita Menon\nAge: 21\nDOB: 2004-04-13\nNationality: Swiss\nDegree: B.Des\nUniversity: IIT Kanpur"}
+{"instruction": "Give details about Elijah Nair", "output": "Full Name: Elijah Nair\nAge: 28\nDOB: 1997-01-13\nNationality: Japanese\nDegree: LLB\nUniversity: Peking University"}
+{"instruction": "Give details about Nora Garcia", "output": "Full Name: Nora Garcia\nAge: 24\nDOB: 2001-07-01\nNationality: South African\nDegree: B.Com\nUniversity: University of Cape Town"}
+{"instruction": "Give details about Nora Jones", "output": "Full Name: Nora Jones\nAge: 18\nDOB: 2007-06-11\nNationality: Peruvian\nDegree: B.E.\nUniversity: University of Waterloo"}
+{"instruction": "Give details about Mia Thompson", "output": "Full Name: Mia Thompson\nAge: 21\nDOB: 2004-05-11\nNationality: Danish\nDegree: B.Stat\nUniversity: KAIST"}
+{"instruction": "Give details about Arjun Torres", "output": "Full Name: Arjun Torres\nAge: 26\nDOB: 1999-05-13\nNationality: Swedish\nDegree: B.E.\nUniversity: McGill University"}
+{"instruction": "Give details about Jackson Hill", "output": "Full Name: Jackson Hill\nAge: 20\nDOB: 2005-07-10\nNationality: Spanish\nDegree: B.DataSci\nUniversity: University of Tokyo"}
+{"instruction": "Give details about Liam Liu", "output": "Full Name: Liam Liu\nAge: 19\nDOB: 2006-06-03\nNationality: Russian\nDegree: B.Arch\nUniversity: University of Cape Town"}
+{"instruction": "Give details about Arjun Ali", "output": "Full Name: Arjun Ali\nAge: 23\nDOB: 2002-02-08\nNationality: Mexican\nDegree: B.Econ\nUniversity: University of British Columbia"}
+{"instruction": "Give details about Zara Clark", "output": "Full Name: Zara Clark\nAge: 26\nDOB: 1999-02-02\nNationality: Australian\nDegree: B.IT\nUniversity: University of Chicago"}
+{"instruction": "Give details about Ella Patel", "output": "Full Name: Ella Patel\nAge: 26\nDOB: 1999-03-04\nNationality: Indian\nDegree: B.Sc\nUniversity: MIT"}
+{"instruction": "Give details about Lillian Sharma", "output": "Full Name: Lillian Sharma\nAge: 21\nDOB: 2004-01-16\nNationality: South African\nDegree: B.Com\nUniversity: University of Tokyo"}
+{"instruction": "Give details about Noah Tanaka", "output": "Full Name: Noah Tanaka\nAge: 23\nDOB: 2002-01-07\nNationality: Argentinian\nDegree: B.Econ\nUniversity: IIT Madras"}
+{"instruction": "Give details about Michael Kaur", "output": "Full Name: Michael Kaur\nAge: 24\nDOB: 2001-02-27\nNationality: Indian\nDegree: B.A.\nUniversity: MIT"}
+{"instruction": "Give details about Jackson Taylor", "output": "Full Name: Jackson Taylor\nAge: 25\nDOB: 2000-05-12\nNationality: Finnish\nDegree: BCA\nUniversity: Australian National University"}
+{"instruction": "Give details about Scarlett Allen", "output": "Full Name: Scarlett Allen\nAge: 22\nDOB: 2003-07-08\nNationality: Brazilian\nDegree: B.Des\nUniversity: National University of Singapore"}
+{"instruction": "Give details about Ananya Davis", "output": "Full Name: Ananya Davis\nAge: 29\nDOB: 1996-08-01\nNationality: French\nDegree: B.Com\nUniversity: IIT Roorkee"}
+{"instruction": "Give details about Omar Perez", "output": "Full Name: Omar Perez\nAge: 18\nDOB: 2007-08-01\nNationality: Peruvian\nDegree: B.Stat\nUniversity: National University of Singapore"}
+{"instruction": "Give details about Arjun Sato", "output": "Full Name: Arjun Sato\nAge: 22\nDOB: 2003-03-10\nNationality: Australian\nDegree: B.Com\nUniversity: University of Waterloo"}
+{"instruction": "Give details about Elijah Sharma", "output": "Full Name: Elijah Sharma\nAge: 20\nDOB: 2005-04-05\nNationality: Danish\nDegree: B.IT\nUniversity: CMU"}
+{"instruction": "Give details about Mateo Zhang", "output": "Full Name: Mateo Zhang\nAge: 30\nDOB: 1995-07-16\nNationality: German\nDegree: B.Pharm\nUniversity: HKU"}
+{"instruction": "Give details about Abigail Smith", "output": "Full Name: Abigail Smith\nAge: 27\nDOB: 1998-02-25\nNationality: Turkish\nDegree: B.Sc\nUniversity: Tsinghua University"}
+{"instruction": "Give details about Ellie Jones", "output": "Full Name: Ellie Jones\nAge: 28\nDOB: 1997-01-26\nNationality: Portuguese\nDegree: LLB\nUniversity: Sorbonne University"}
+{"instruction": "Give details about Amelia Zhang", "output": "Full Name: Amelia Zhang\nAge: 18\nDOB: 2007-08-01\nNationality: Peruvian\nDegree: B.Tech\nUniversity: Peking University"}
+{"instruction": "Give details about Hannah Chen", "output": "Full Name: Hannah Chen\nAge: 27\nDOB: 1998-03-16\nNationality: Egyptian\nDegree: B.Arch\nUniversity: IIT Kanpur"}
+{"instruction": "Give details about Ella Hernandez", "output": "Full Name: Ella Hernandez\nAge: 22\nDOB: 2003-04-14\nNationality: Dutch\nDegree: B.Econ\nUniversity: Stanford University"}
+{"instruction": "Give details about Lily Menon", "output": "Full Name: Lily Menon\nAge: 24\nDOB: 2001-01-10\nNationality: Indian\nDegree: LLB\nUniversity: CMU"}
+{"instruction": "Give details about Siddharth White", "output": "Full Name: Siddharth White\nAge: 24\nDOB: 2001-02-09\nNationality: Chinese\nDegree: B.Econ\nUniversity: University of Toronto"}
+{"instruction": "Give details about Kabir Wilson", "output": "Full Name: Kabir Wilson\nAge: 24\nDOB: 2001-04-13\nNationality: Korean\nDegree: B.A.\nUniversity: University of Auckland"}
+{"instruction": "Give details about Mason Perez", "output": "Full Name: Mason Perez\nAge: 22\nDOB: 2003-01-23\nNationality: Norwegian\nDegree: B.Des\nUniversity: University of Auckland"}
+{"instruction": "Give details about Isabella Robinson", "output": "Full Name: Isabella Robinson\nAge: 28\nDOB: 1997-08-01\nNationality: Swiss\nDegree: B.Com\nUniversity: Oxford University"}
+{"instruction": "Give details about Ali Khan", "output": "Full Name: Ali Khan\nAge: 28\nDOB: 1997-08-01\nNationality: Brazilian\nDegree: BBA\nUniversity: Cambridge University"}
+{"instruction": "Give details about Reem Thomas", "output": "Full Name: Reem Thomas\nAge: 22\nDOB: 2003-02-06\nNationality: Norwegian\nDegree: B.DataSci\nUniversity: University of Toronto"}
+{"instruction": "Give details about Aubrey Lopez", "output": "Full Name: Aubrey Lopez\nAge: 29\nDOB: 1996-06-02\nNationality: Turkish\nDegree: B.Econ\nUniversity: Australian National University"}
+{"instruction": "Give details about Aria Ito", "output": "Full Name: Aria Ito\nAge: 25\nDOB: 2000-06-05\nNationality: Saudi\nDegree: LLB\nUniversity: University of Chicago"}
+{"instruction": "Give details about Lillian Liu", "output": "Full Name: Lillian Liu\nAge: 20\nDOB: 2005-01-01\nNationality: Norwegian\nDegree: B.A.\nUniversity: CMU"}
+{"instruction": "Give details about Addison Khan", "output": "Full Name: Addison Khan\nAge: 18\nDOB: 2007-01-21\nNationality: Chinese\nDegree: LLB\nUniversity: Cambridge University"}
+{"instruction": "Give details about Avery Joshi", "output": "Full Name: Avery Joshi\nAge: 22\nDOB: 2003-02-07\nNationality: British\nDegree: B.A.\nUniversity: University of Sao Paulo"}
+{"instruction": "Give details about Emma Harris", "output": "Full Name: Emma Harris\nAge: 20\nDOB: 2005-03-17\nNationality: Mexican\nDegree: B.Arch\nUniversity: Peking University"}
+{"instruction": "Give details about Lillian Chopra", "output": "Full Name: Lillian Chopra\nAge: 23\nDOB: 2002-03-07\nNationality: Mexican\nDegree: B.A.\nUniversity: Peking University"}
+{"instruction": "Give details about Ella King", "output": "Full Name: Ella King\nAge: 28\nDOB: 1997-01-10\nNationality: Argentinian\nDegree: B.Stat\nUniversity: ETH Zurich"}
+{"instruction": "Give details about William Rodriguez", "output": "Full Name: William Rodriguez\nAge: 24\nDOB: 2001-01-10\nNationality: Russian\nDegree: B.IT\nUniversity: Australian National University"}
+{"instruction": "Give details about Jackson Lopez", "output": "Full Name: Jackson Lopez\nAge: 26\nDOB: 1999-06-05\nNationality: Japanese\nDegree: B.Econ\nUniversity: IIT Kharagpur"}
+{"instruction": "Give details about Riley Patil", "output": "Full Name: Riley Patil\nAge: 25\nDOB: 2000-03-11\nNationality: German\nDegree: BCA\nUniversity: Oxford University"}
+{"instruction": "Give details about Alexander Hill", "output": "Full Name: Alexander Hill\nAge: 20\nDOB: 2005-03-04\nNationality: Indian\nDegree: B.A.\nUniversity: KU Leuven"}
+{"instruction": "Give details about Addison Iyer", "output": "Full Name: Addison Iyer\nAge: 23\nDOB: 2002-01-13\nNationality: Swiss\nDegree: B.Econ\nUniversity: University of Waterloo"}
+{"instruction": "Give details about Nora Walker", "output": "Full Name: Nora Walker\nAge: 22\nDOB: 2003-03-11\nNationality: Argentinian\nDegree: B.Pharm\nUniversity: University of Melbourne"}
+{"instruction": "Give details about Alexander Anderson", "output": "Full Name: Alexander Anderson\nAge: 28\nDOB: 1997-01-28\nNationality: Australian\nDegree: B.Stat\nUniversity: University of Buenos Aires"}
+{"instruction": "Give details about William Wilson", "output": "Full Name: William Wilson\nAge: 18\nDOB: 2007-08-01\nNationality: Greek\nDegree: B.Des\nUniversity: Oxford University"}
+{"instruction": "Give details about Grace Clark", "output": "Full Name: Grace Clark\nAge: 28\nDOB: 1997-05-21\nNationality: Finnish\nDegree: B.Des\nUniversity: Stanford University"}
+{"instruction": "Give details about Isabella Garcia", "output": "Full Name: Isabella Garcia\nAge: 25\nDOB: 2000-06-08\nNationality: Norwegian\nDegree: B.E.\nUniversity: National University of Singapore"}
+{"instruction": "Give details about Ava Scott", "output": "Full Name: Ava Scott\nAge: 27\nDOB: 1998-03-01\nNationality: Saudi\nDegree: B.Pharm\nUniversity: American University of Beirut"}
+{"instruction": "Give details about Amelia Garcia", "output": "Full Name: Amelia Garcia\nAge: 19\nDOB: 2006-04-01\nNationality: Portuguese\nDegree: B.E.\nUniversity: Cambridge University"}
+{"instruction": "Give details about Rohan Park", "output": "Full Name: Rohan Park\nAge: 30\nDOB: 1995-08-01\nNationality: Swiss\nDegree: BCA\nUniversity: HKU"}
+{"instruction": "Give details about Levi Kulkarni", "output": "Full Name: Levi Kulkarni\nAge: 27\nDOB: 1998-02-04\nNationality: Norwegian\nDegree: B.Des\nUniversity: Tsinghua University"}
+{"instruction": "Give details about William Tanaka", "output": "Full Name: William Tanaka\nAge: 30\nDOB: 1995-06-03\nNationality: Mexican\nDegree: BBA\nUniversity: IIT Kanpur"}
+{"instruction": "Give details about Harper Davis", "output": "Full Name: Harper Davis\nAge: 29\nDOB: 1996-01-25\nNationality: Colombian\nDegree: B.Sc\nUniversity: University of Copenhagen"}
+{"instruction": "Give details about Elijah Harris", "output": "Full Name: Elijah Harris\nAge: 25\nDOB: 2000-05-12\nNationality: Swiss\nDegree: B.Stat\nUniversity: University of Cape Town"}
+{"instruction": "Give details about Harper Garcia", "output": "Full Name: Harper Garcia\nAge: 30\nDOB: 1995-07-04\nNationality: South African\nDegree: B.IT\nUniversity: Imperial College London"}
+{"instruction": "Give details about Jackson Sato", "output": "Full Name: Jackson Sato\nAge: 27\nDOB: 1998-05-20\nNationality: Japanese\nDegree: B.Stat\nUniversity: University of Tokyo"}
+{"instruction": "Give details about Elizabeth Chowdhury", "output": "Full Name: Elizabeth Chowdhury\nAge: 26\nDOB: 1999-06-10\nNationality: Turkish\nDegree: B.E.\nUniversity: Australian National University"}
+{"instruction": "Give details about Abigail Davis", "output": "Full Name: Abigail Davis\nAge: 19\nDOB: 2006-04-06\nNationality: South African\nDegree: B.Des\nUniversity: University of Sydney"}
+{"instruction": "Give details about Jackson Nair", "output": "Full Name: Jackson Nair\nAge: 22\nDOB: 2003-01-01\nNationality: Brazilian\nDegree: B.Econ\nUniversity: Seoul National University"}
+{"instruction": "Give details about Rohan Taylor", "output": "Full Name: Rohan Taylor\nAge: 28\nDOB: 1997-05-20\nNationality: Norwegian\nDegree: B.E.\nUniversity: Cairo University"}
+{"instruction": "Give details about Henry Nair", "output": "Full Name: Henry Nair\nAge: 25\nDOB: 2000-06-18\nNationality: Peruvian\nDegree: B.Econ\nUniversity: University of Sydney"}
+{"instruction": "Give details about Theodore Walker", "output": "Full Name: Theodore Walker\nAge: 30\nDOB: 1995-01-20\nNationality: Turkish\nDegree: B.Pharm\nUniversity: Oxford University"}
+{"instruction": "Give details about Hassan Clark", "output": "Full Name: Hassan Clark\nAge: 30\nDOB: 1995-06-13\nNationality: Nigerian\nDegree: BCA\nUniversity: King Saud University"}
+{"instruction": "Give details about Olivia Ito", "output": "Full Name: Olivia Ito\nAge: 19\nDOB: 2006-05-12\nNationality: Argentinian\nDegree: B.Pharm\nUniversity: MIT"}
+{"instruction": "Give details about Aisha Martin", "output": "Full Name: Aisha Martin\nAge: 21\nDOB: 2004-04-17\nNationality: Swiss\nDegree: B.Econ\nUniversity: McGill University"}
+{"instruction": "Give details about Levi Williams", "output": "Full Name: Levi Williams\nAge: 23\nDOB: 2002-06-28\nNationality: Egyptian\nDegree: B.Des\nUniversity: Sorbonne University"}
+{"instruction": "Give details about Hannah Khan", "output": "Full Name: Hannah Khan\nAge: 18\nDOB: 2007-05-08\nNationality: Peruvian\nDegree: BBA\nUniversity: Seoul National University"}
+{"instruction": "Give details about Amelia Scott", "output": "Full Name: Amelia Scott\nAge: 18\nDOB: 2007-02-09\nNationality: Mexican\nDegree: B.Stat\nUniversity: University of Auckland"}
+{"instruction": "Give details about Sebastian Patil", "output": "Full Name: Sebastian Patil\nAge: 22\nDOB: 2003-02-20\nNationality: Russian\nDegree: B.Tech\nUniversity: HKU"}
+{"instruction": "Give details about Olivia Suzuki", "output": "Full Name: Olivia Suzuki\nAge: 27\nDOB: 1998-01-17\nNationality: Nigerian\nDegree: B.Des\nUniversity: IIT Bombay"}
+{"instruction": "Give details about Sofia Ali", "output": "Full Name: Sofia Ali\nAge: 24\nDOB: 2001-08-01\nNationality: Colombian\nDegree: BCA\nUniversity: HKU"}
+{"instruction": "Give details about Sophia Williams", "output": "Full Name: Sophia Williams\nAge: 22\nDOB: 2003-02-14\nNationality: Colombian\nDegree: B.Des\nUniversity: IIT Kharagpur"}
+{"instruction": "Give details about Harper Martinez", "output": "Full Name: Harper Martinez\nAge: 21\nDOB: 2004-01-03\nNationality: Kenyan\nDegree: B.Stat\nUniversity: IIT Kharagpur"}
+{"instruction": "Give details about Emily Williams", "output": "Full Name: Emily Williams\nAge: 19\nDOB: 2006-04-20\nNationality: Canadian\nDegree: B.Sc\nUniversity: University of Waterloo"}
+{"instruction": "Give details about Lily Lewis", "output": "Full Name: Lily Lewis\nAge: 29\nDOB: 1996-06-28\nNationality: Swedish\nDegree: BBA\nUniversity: ETH Zurich"}
+{"instruction": "Give details about Hassan Brown", "output": "Full Name: Hassan Brown\nAge: 24\nDOB: 2001-02-28\nNationality: Portuguese\nDegree: B.Stat\nUniversity: IIT Delhi"}
+{"instruction": "Give details about Nora Chopra", "output": "Full Name: Nora Chopra\nAge: 29\nDOB: 1996-07-08\nNationality: French\nDegree: BCA\nUniversity: University of Sao Paulo"}
+{"instruction": "Give details about Henry Clark", "output": "Full Name: Henry Clark\nAge: 24\nDOB: 2001-02-23\nNationality: Portuguese\nDegree: B.E.\nUniversity: HKU"}
+{"instruction": "Give details about James Scott", "output": "Full Name: James Scott\nAge: 19\nDOB: 2006-07-25\nNationality: Norwegian\nDegree: B.IT\nUniversity: Tsinghua University"}
+{"instruction": "Give details about Ali Martinez", "output": "Full Name: Ali Martinez\nAge: 21\nDOB: 2004-03-19\nNationality: Swedish\nDegree: BBA\nUniversity: IIT Bombay"}
+{"instruction": "Give details about Elizabeth Kaur", "output": "Full Name: Elizabeth Kaur\nAge: 22\nDOB: 2003-01-26\nNationality: Russian\nDegree: B.Sc\nUniversity: EPFL"}
+{"instruction": "Give details about Rohan Hernandez", "output": "Full Name: Rohan Hernandez\nAge: 26\nDOB: 1999-06-05\nNationality: Dutch\nDegree: B.E.\nUniversity: University of Auckland"}
+{"instruction": "Give details about Isabella Patel", "output": "Full Name: Isabella Patel\nAge: 25\nDOB: 2000-06-15\nNationality: British\nDegree: B.Arch\nUniversity: IIT Kanpur"}
+{"instruction": "Give details about Levi Nair", "output": "Full Name: Levi Nair\nAge: 19\nDOB: 2006-03-12\nNationality: Saudi\nDegree: LLB\nUniversity: MIT"}
+{"instruction": "Give details about Oliver Thompson", "output": "Full Name: Oliver Thompson\nAge: 18\nDOB: 2007-04-01\nNationality: Kenyan\nDegree: LLB\nUniversity: University of Sao Paulo"}
+{"instruction": "Give details about Mason Hill", "output": "Full Name: Mason Hill\nAge: 26\nDOB: 1999-04-07\nNationality: Greek\nDegree: B.Sc\nUniversity: Technical University of Munich"}
+{"instruction": "Give details about Youssef Johnson", "output": "Full Name: Youssef Johnson\nAge: 30\nDOB: 1995-07-22\nNationality: Colombian\nDegree: B.Arch\nUniversity: University of Auckland"}
+{"instruction": "Give details about Ali Das", "output": "Full Name: Ali Das\nAge: 28\nDOB: 1997-05-25\nNationality: Swiss\nDegree: B.E.\nUniversity: University of Amsterdam"}
+{"instruction": "Give details about Ellie Reddy", "output": "Full Name: Ellie Reddy\nAge: 24\nDOB: 2001-07-03\nNationality: Egyptian\nDegree: LLB\nUniversity: University of Sydney"}
+{"instruction": "Give details about William Davis", "output": "Full Name: William Davis\nAge: 30\nDOB: 1995-07-20\nNationality: French\nDegree: B.Econ\nUniversity: McGill University"}
+{"instruction": "Give details about Rohan King", "output": "Full Name: Rohan King\nAge: 20\nDOB: 2005-05-14\nNationality: South African\nDegree: B.Com\nUniversity: University of Copenhagen"}
+{"instruction": "Give details about Hassan Wang", "output": "Full Name: Hassan Wang\nAge: 20\nDOB: 2005-08-01\nNationality: Swedish\nDegree: B.Sc\nUniversity: IIT Madras"}
+{"instruction": "Give details about Jackson Lee", "output": "Full Name: Jackson Lee\nAge: 25\nDOB: 2000-05-28\nNationality: Peruvian\nDegree: B.Des\nUniversity: Imperial College London"}
+{"instruction": "Give details about Youssef Anderson", "output": "Full Name: Youssef Anderson\nAge: 24\nDOB: 2001-07-04\nNationality: Indian\nDegree: LLB\nUniversity: Cairo University"}
+{"instruction": "Give details about Siddharth Das", "output": "Full Name: Siddharth Das\nAge: 30\nDOB: 1995-06-25\nNationality: Japanese\nDegree: B.Com\nUniversity: MIT"}
+{"instruction": "Give details about Ellie Kaur", "output": "Full Name: Ellie Kaur\nAge: 22\nDOB: 2003-07-07\nNationality: Peruvian\nDegree: BCA\nUniversity: University of Copenhagen"}
+{"instruction": "Give details about Neha Chowdhury", "output": "Full Name: Neha Chowdhury\nAge: 25\nDOB: 2000-05-08\nNationality: Argentinian\nDegree: LLB\nUniversity: University of British Columbia"}
+{"instruction": "Give details about Olivia Liu", "output": "Full Name: Olivia Liu\nAge: 26\nDOB: 1999-04-05\nNationality: American\nDegree: B.Des\nUniversity: KU Leuven"}
+{"instruction": "Give details about Lucas Sato", "output": "Full Name: Lucas Sato\nAge: 20\nDOB: 2005-03-15\nNationality: Italian\nDegree: LLB\nUniversity: IIT Kanpur"}
+{"instruction": "Give details about Jackson Sanchez", "output": "Full Name: Jackson Sanchez\nAge: 21\nDOB: 2004-03-02\nNationality: Argentinian\nDegree: LLB\nUniversity: Cambridge University"}
+{"instruction": "Give details about Reem Wright", "output": "Full Name: Reem Wright\nAge: 19\nDOB: 2006-07-18\nNationality: Norwegian\nDegree: B.Arch\nUniversity: Tsinghua University"}
+{"instruction": "Give details about Ishita Perez", "output": "Full Name: Ishita Perez\nAge: 19\nDOB: 2006-05-08\nNationality: Egyptian\nDegree: B.E.\nUniversity: Sorbonne University"}
+{"instruction": "Give details about Liam Chen", "output": "Full Name: Liam Chen\nAge: 21\nDOB: 2004-07-12\nNationality: German\nDegree: B.Econ\nUniversity: American University of Beirut"}
+{"instruction": "Give details about Emily Torres", "output": "Full Name: Emily Torres\nAge: 18\nDOB: 2007-06-15\nNationality: South African\nDegree: B.Arch\nUniversity: Technical University of Munich"}
+{"instruction": "Give details about Lily Suzuki", "output": "Full Name: Lily Suzuki\nAge: 27\nDOB: 1998-01-17\nNationality: Egyptian\nDegree: B.A.\nUniversity: HKU"}
+{"instruction": "Give details about Zara Thomas", "output": "Full Name: Zara Thomas\nAge: 26\nDOB: 1999-04-13\nNationality: Dutch\nDegree: B.DataSci\nUniversity: HKU"}
+{"instruction": "Give details about Lily Martinez", "output": "Full Name: Lily Martinez\nAge: 24\nDOB: 2001-07-28\nNationality: Australian\nDegree: B.Sc\nUniversity: Nanyang Technological University"}
+{"instruction": "Give details about Olivia Harris", "output": "Full Name: Olivia Harris\nAge: 25\nDOB: 2000-08-01\nNationality: Greek\nDegree: B.Pharm\nUniversity: IIT Kharagpur"}
+{"instruction": "Give details about Ananya Park", "output": "Full Name: Ananya Park\nAge: 27\nDOB: 1998-05-09\nNationality: Danish\nDegree: BBA\nUniversity: IISc Bangalore"}
+{"instruction": "Give details about Mia Zhang", "output": "Full Name: Mia Zhang\nAge: 27\nDOB: 1998-04-16\nNationality: Korean\nDegree: B.Com\nUniversity: Tsinghua University"}
+{"instruction": "Give details about Theodore Nair", "output": "Full Name: Theodore Nair\nAge: 21\nDOB: 2004-01-10\nNationality: British\nDegree: B.A.\nUniversity: University of Cape Town"}
+{"instruction": "Give details about Reem Menon", "output": "Full Name: Reem Menon\nAge: 27\nDOB: 1998-02-15\nNationality: Danish\nDegree: B.Com\nUniversity: IIT Roorkee"}
+{"instruction": "Give details about Siddharth Patil", "output": "Full Name: Siddharth Patil\nAge: 28\nDOB: 1997-01-23\nNationality: Nigerian\nDegree: B.Stat\nUniversity: University of Melbourne"}
+{"instruction": "Give details about Lillian Miller", "output": "Full Name: Lillian Miller\nAge: 20\nDOB: 2005-07-28\nNationality: South African\nDegree: BCA\nUniversity: Nanyang Technological University"}
+{"instruction": "Give details about Arjun Reddy", "output": "Full Name: Arjun Reddy\nAge: 21\nDOB: 2004-03-01\nNationality: Australian\nDegree: B.A.\nUniversity: HKU"}
+{"instruction": "Give details about Sebastian Clark", "output": "Full Name: Sebastian Clark\nAge: 22\nDOB: 2003-01-19\nNationality: South African\nDegree: LLB\nUniversity: University of Waterloo"}
+{"instruction": "Give details about Youssef Joshi", "output": "Full Name: Youssef Joshi\nAge: 28\nDOB: 1997-02-11\nNationality: Saudi\nDegree: B.Pharm\nUniversity: University of Melbourne"}
+{"instruction": "Give details about Ellie Miller", "output": "Full Name: Ellie Miller\nAge: 27\nDOB: 1998-07-28\nNationality: South African\nDegree: BBA\nUniversity: University of Chicago"}
+{"instruction": "Give details about Riley Flores", "output": "Full Name: Riley Flores\nAge: 28\nDOB: 1997-01-10\nNationality: Greek\nDegree: B.Sc\nUniversity: IIT Kharagpur"}
+{"instruction": "Give details about Hassan Sato", "output": "Full Name: Hassan Sato\nAge: 21\nDOB: 2004-06-11\nNationality: Dutch\nDegree: B.DataSci\nUniversity: HKU"}
+{"instruction": "Give details about Addison Taylor", "output": "Full Name: Addison Taylor\nAge: 25\nDOB: 2000-05-08\nNationality: Argentinian\nDegree: B.IT\nUniversity: IISc Bangalore"}
+{"instruction": "Give details about Fatima Scott", "output": "Full Name: Fatima Scott\nAge: 29\nDOB: 1996-05-13\nNationality: Swiss\nDegree: BBA\nUniversity: KU Leuven"}
+{"instruction": "Give details about Mateo Taylor", "output": "Full Name: Mateo Taylor\nAge: 19\nDOB: 2006-03-19\nNationality: Chinese\nDegree: B.Stat\nUniversity: University of Copenhagen"}
+{"instruction": "Give details about Henry Sharma", "output": "Full Name: Henry Sharma\nAge: 22\nDOB: 2003-02-04\nNationality: Peruvian\nDegree: B.Stat\nUniversity: University of Toronto"}
+{"instruction": "Give details about Neha Brown", "output": "Full Name: Neha Brown\nAge: 29\nDOB: 1996-08-01\nNationality: Italian\nDegree: BCA\nUniversity: University of Auckland"}
+{"instruction": "Give details about Ava Menon", "output": "Full Name: Ava Menon\nAge: 19\nDOB: 2006-02-14\nNationality: Egyptian\nDegree: B.Sc\nUniversity: HKU"}
+{"instruction": "Give details about Sophia Walker", "output": "Full Name: Sophia Walker\nAge: 22\nDOB: 2003-02-12\nNationality: Dutch\nDegree: B.A.\nUniversity: Oxford University"}
+{"instruction": "Give details about Riley Martin", "output": "Full Name: Riley Martin\nAge: 26\nDOB: 1999-02-19\nNationality: Portuguese\nDegree: B.A.\nUniversity: Tsinghua University"}
+{"instruction": "Give details about Tanvi Nair", "output": "Full Name: Tanvi Nair\nAge: 30\nDOB: 1995-04-22\nNationality: Portuguese\nDegree: B.Tech\nUniversity: Harvard University"}
+{"instruction": "Give details about Isabella Sanchez", "output": "Full Name: Isabella Sanchez\nAge: 24\nDOB: 2001-01-17\nNationality: Colombian\nDegree: B.Com\nUniversity: KU Leuven"}
+{"instruction": "Give details about Zoey Kim", "output": "Full Name: Zoey Kim\nAge: 21\nDOB: 2004-08-01\nNationality: Portuguese\nDegree: B.A.\nUniversity: Harvard University"}
+{"instruction": "Give details about Theodore Sharma", "output": "Full Name: Theodore Sharma\nAge: 18\nDOB: 2007-03-08\nNationality: Argentinian\nDegree: LLB\nUniversity: University of Cape Town"}
+{"instruction": "Give details about Mason Ito", "output": "Full Name: Mason Ito\nAge: 22\nDOB: 2003-06-14\nNationality: Korean\nDegree: B.Pharm\nUniversity: University of Copenhagen"}
+{"instruction": "Give details about Omar Jones", "output": "Full Name: Omar Jones\nAge: 21\nDOB: 2004-03-06\nNationality: Russian\nDegree: BBA\nUniversity: EPFL"}
+{"instruction": "Give details about Tanvi Perez", "output": "Full Name: Tanvi Perez\nAge: 25\nDOB: 2000-04-22\nNationality: Colombian\nDegree: B.Pharm\nUniversity: University of Buenos Aires"}
+{"instruction": "Give details about Evelyn Allen", "output": "Full Name: Evelyn Allen\nAge: 22\nDOB: 2003-02-14\nNationality: Saudi\nDegree: B.Econ\nUniversity: University of British Columbia"}
+{"instruction": "Give details about Ali Patil", "output": "Full Name: Ali Patil\nAge: 28\nDOB: 1997-02-11\nNationality: Spanish\nDegree: B.Sc\nUniversity: University of British Columbia"}
+{"instruction": "Give details about Riley Suzuki", "output": "Full Name: Riley Suzuki\nAge: 20\nDOB: 2005-06-11\nNationality: American\nDegree: B.Stat\nUniversity: HKU"}
+{"instruction": "Give details about Henry Ramirez", "output": "Full Name: Henry Ramirez\nAge: 24\nDOB: 2001-06-19\nNationality: Portuguese\nDegree: B.DataSci\nUniversity: Imperial College London"}
+{"instruction": "Give details about Samir Sharma", "output": "Full Name: Samir Sharma\nAge: 18\nDOB: 2007-03-09\nNationality: Turkish\nDegree: B.E.\nUniversity: Cambridge University"}
+{"instruction": "Give details about Emily Kaur", "output": "Full Name: Emily Kaur\nAge: 30\nDOB: 1995-03-19\nNationality: Swiss\nDegree: LLB\nUniversity: University of Melbourne"}
+{"instruction": "Give details about Isabella Rodriguez", "output": "Full Name: Isabella Rodriguez\nAge: 18\nDOB: 2007-07-13\nNationality: Canadian\nDegree: B.E.\nUniversity: Cambridge University"}
+{"instruction": "Give details about Abigail Ahmed", "output": "Full Name: Abigail Ahmed\nAge: 21\nDOB: 2004-04-21\nNationality: Australian\nDegree: B.IT\nUniversity: Tsinghua University"}
+{"instruction": "Give details about Kiran Allen", "output": "Full Name: Kiran Allen\nAge: 29\nDOB: 1996-03-17\nNationality: Turkish\nDegree: B.Sc\nUniversity: University of Melbourne"}
+{"instruction": "Give details about Harper Miller", "output": "Full Name: Harper Miller\nAge: 24\nDOB: 2001-03-25\nNationality: German\nDegree: B.Arch\nUniversity: Cairo University"}
+{"instruction": "Give details about Emily Ahmed", "output": "Full Name: Emily Ahmed\nAge: 19\nDOB: 2006-04-07\nNationality: Japanese\nDegree: B.Econ\nUniversity: KAIST"}
+{"instruction": "Give details about Victoria Patil", "output": "Full Name: Victoria Patil\nAge: 24\nDOB: 2001-05-14\nNationality: Kenyan\nDegree: B.Tech\nUniversity: University of Auckland"}
+{"instruction": "Give details about Levi Patel", "output": "Full Name: Levi Patel\nAge: 19\nDOB: 2006-05-14\nNationality: Mexican\nDegree: B.Econ\nUniversity: University of Sao Paulo"}
+{"instruction": "Give details about Kabir Chowdhury", "output": "Full Name: Kabir Chowdhury\nAge: 25\nDOB: 2000-04-22\nNationality: Norwegian\nDegree: B.Pharm\nUniversity: American University of Beirut"}
+{"instruction": "Give details about Zara Chopra", "output": "Full Name: Zara Chopra\nAge: 21\nDOB: 2004-08-01\nNationality: Argentinian\nDegree: B.Com\nUniversity: University of Chicago"}
+{"instruction": "Give details about Scarlett Ramirez", "output": "Full Name: Scarlett Ramirez\nAge: 24\nDOB: 2001-01-07\nNationality: Egyptian\nDegree: LLB\nUniversity: ETH Zurich"}
+{"instruction": "Give details about Ishita Gupta", "output": "Full Name: Ishita Gupta\nAge: 23\nDOB: 2002-02-03\nNationality: Greek\nDegree: B.Sc\nUniversity: Tsinghua University"}
+{"instruction": "Give details about Isabella Kaur", "output": "Full Name: Isabella Kaur\nAge: 22\nDOB: 2003-07-13\nNationality: Kenyan\nDegree: B.Des\nUniversity: Imperial College London"}
+{"instruction": "Give details about Benjamin Tanaka", "output": "Full Name: Benjamin Tanaka\nAge: 26\nDOB: 1999-06-12\nNationality: Portuguese\nDegree: B.A.\nUniversity: University of Melbourne"}
+{"instruction": "Give details about Zara Chowdhury", "output": "Full Name: Zara Chowdhury\nAge: 20\nDOB: 2005-04-16\nNationality: Portuguese\nDegree: B.Arch\nUniversity: Oxford University"}
+{"instruction": "Give details about Rohan Wang", "output": "Full Name: Rohan Wang\nAge: 25\nDOB: 2000-02-22\nNationality: Korean\nDegree: B.Pharm\nUniversity: University of Cape Town"}
+{"instruction": "Give details about Mason White", "output": "Full Name: Mason White\nAge: 23\nDOB: 2002-05-08\nNationality: British\nDegree: B.Com\nUniversity: Technical University of Munich"}
+{"instruction": "Give details about Mateo Thomas", "output": "Full Name: Mateo Thomas\nAge: 24\nDOB: 2001-01-13\nNationality: Polish\nDegree: B.DataSci\nUniversity: Tsinghua University"}
+{"instruction": "Give details about Aisha Gonzalez", "output": "Full Name: Aisha Gonzalez\nAge: 25\nDOB: 2000-04-03\nNationality: Emirati\nDegree: B.Tech\nUniversity: National University of Singapore"}
+{"instruction": "Give details about Benjamin Scott", "output": "Full Name: Benjamin Scott\nAge: 23\nDOB: 2002-02-05\nNationality: Swedish\nDegree: B.Tech\nUniversity: Oxford University"}
+{"instruction": "Give details about Mia Gupta", "output": "Full Name: Mia Gupta\nAge: 25\nDOB: 2000-03-05\nNationality: Kenyan\nDegree: B.Tech\nUniversity: Harvard University"}
+{"instruction": "Give details about Aubrey Sanchez", "output": "Full Name: Aubrey Sanchez\nAge: 25\nDOB: 2000-05-12\nNationality: American\nDegree: BCA\nUniversity: MIT"}
+{"instruction": "Give details about Zara Wilson", "output": "Full Name: Zara Wilson\nAge: 30\nDOB: 1995-07-10\nNationality: Australian\nDegree: BBA\nUniversity: McGill University"}
+{"instruction": "Give details about Isabella Ahmed", "output": "Full Name: Isabella Ahmed\nAge: 26\nDOB: 1999-05-13\nNationality: Argentinian\nDegree: B.IT\nUniversity: IISc Bangalore"}
+{"instruction": "Give details about Levi Torres", "output": "Full Name: Levi Torres\nAge: 26\nDOB: 1999-07-19\nNationality: Swiss\nDegree: B.Econ\nUniversity: HKU"}
+{"instruction": "Give details about Sophia Torres", "output": "Full Name: Sophia Torres\nAge: 18\nDOB: 2007-08-01\nNationality: Greek\nDegree: B.Stat\nUniversity: University of Tokyo"}
+{"instruction": "Give details about Hannah Nair", "output": "Full Name: Hannah Nair\nAge: 23\nDOB: 2002-04-22\nNationality: Indian\nDegree: B.A.\nUniversity: ETH Zurich"}
+{"instruction": "Give details about Ethan Lee", "output": "Full Name: Ethan Lee\nAge: 18\nDOB: 2007-02-09\nNationality: Japanese\nDegree: B.A.\nUniversity: National University of Singapore"}
+{"instruction": "Give details about Addison Hussain", "output": "Full Name: Addison Hussain\nAge: 30\nDOB: 1995-01-11\nNationality: Australian\nDegree: B.Econ\nUniversity: University of Melbourne"}
+{"instruction": "Give details about Levi Kaur", "output": "Full Name: Levi Kaur\nAge: 22\nDOB: 2003-03-13\nNationality: Australian\nDegree: B.Tech\nUniversity: Australian National University"}
+{"instruction": "Give details about Samir Chowdhury", "output": "Full Name: Samir Chowdhury\nAge: 19\nDOB: 2006-03-15\nNationality: Nigerian\nDegree: B.A.\nUniversity: HKU"}
+{"instruction": "Give details about Elijah Liu", "output": "Full Name: Elijah Liu\nAge: 24\nDOB: 2001-05-24\nNationality: Dutch\nDegree: B.Econ\nUniversity: University of Sao Paulo"}
+{"instruction": "Give details about Zoey Lee", "output": "Full Name: Zoey Lee\nAge: 22\nDOB: 2003-03-22\nNationality: Indian\nDegree: B.Pharm\nUniversity: Australian National University"}
+{"instruction": "Give details about Addison Ito", "output": "Full Name: Addison Ito\nAge: 25\nDOB: 2000-02-16\nNationality: Emirati\nDegree: B.Tech\nUniversity: Sorbonne University"}
+{"instruction": "Give details about Kabir Das", "output": "Full Name: Kabir Das\nAge: 22\nDOB: 2003-07-05\nNationality: Brazilian\nDegree: B.IT\nUniversity: ETH Zurich"}
+{"instruction": "Give details about Grace Martinez", "output": "Full Name: Grace Martinez\nAge: 26\nDOB: 1999-07-05\nNationality: Saudi\nDegree: B.Stat\nUniversity: University of Cape Town"}
+{"instruction": "Give details about Chloe Gonzalez", "output": "Full Name: Chloe Gonzalez\nAge: 30\nDOB: 1995-02-16\nNationality: Italian\nDegree: B.IT\nUniversity: University of Copenhagen"}
+{"instruction": "Give details about Sofia Lewis", "output": "Full Name: Sofia Lewis\nAge: 30\nDOB: 1995-01-06\nNationality: German\nDegree: B.Econ\nUniversity: IISc Bangalore"}
+{"instruction": "Give details about Olivia Anderson", "output": "Full Name: Olivia Anderson\nAge: 28\nDOB: 1997-01-08\nNationality: Chinese\nDegree: B.Arch\nUniversity: University of British Columbia"}
+{"instruction": "Give details about Aaliyah Hussain", "output": "Full Name: Aaliyah Hussain\nAge: 29\nDOB: 1996-05-22\nNationality: Indian\nDegree: B.Stat\nUniversity: Sorbonne University"}
+{"instruction": "Give details about Ella Joshi", "output": "Full Name: Ella Joshi\nAge: 25\nDOB: 2000-07-27\nNationality: Swiss\nDegree: B.Pharm\nUniversity: IIT Kanpur"}
+{"instruction": "Give details about Lillian Ramirez", "output": "Full Name: Lillian Ramirez\nAge: 23\nDOB: 2002-08-01\nNationality: Peruvian\nDegree: BCA\nUniversity: Tsinghua University"}
+{"instruction": "Give details about Ali Kim", "output": "Full Name: Ali Kim\nAge: 26\nDOB: 1999-05-11\nNationality: Swiss\nDegree: B.Stat\nUniversity: Stanford University"}
+{"instruction": "Give details about Kiran Clark", "output": "Full Name: Kiran Clark\nAge: 25\nDOB: 2000-07-11\nNationality: South African\nDegree: BCA\nUniversity: EPFL"}
+{"instruction": "Give details about Elizabeth Mehta", "output": "Full Name: Elizabeth Mehta\nAge: 28\nDOB: 1997-04-27\nNationality: Canadian\nDegree: B.Arch\nUniversity: National University of Singapore"}
+{"instruction": "Give details about Ishita Clark", "output": "Full Name: Ishita Clark\nAge: 28\nDOB: 1997-01-20\nNationality: Korean\nDegree: B.Tech\nUniversity: Technical University of Munich"}
+{"instruction": "Give details about Samir Das", "output": "Full Name: Samir Das\nAge: 18\nDOB: 2007-07-05\nNationality: Italian\nDegree: B.A.\nUniversity: Seoul National University"}
+{"instruction": "Give details about Liam Kulkarni", "output": "Full Name: Liam Kulkarni\nAge: 29\nDOB: 1996-07-21\nNationality: Indian\nDegree: B.Stat\nUniversity: Harvard University"}
+{"instruction": "Give details about Amelia Hussain", "output": "Full Name: Amelia Hussain\nAge: 26\nDOB: 1999-08-01\nNationality: Emirati\nDegree: B.Com\nUniversity: University of Toronto"}
+{"instruction": "Give details about Harper Jones", "output": "Full Name: Harper Jones\nAge: 19\nDOB: 2006-06-05\nNationality: Saudi\nDegree: B.E.\nUniversity: Tsinghua University"}
+{"instruction": "Give details about Ellie Kim", "output": "Full Name: Ellie Kim\nAge: 18\nDOB: 2007-01-10\nNationality: Brazilian\nDegree: B.Com\nUniversity: Imperial College London"}
+{"instruction": "Give details about Aisha Hill", "output": "Full Name: Aisha Hill\nAge: 19\nDOB: 2006-07-27\nNationality: Canadian\nDegree: B.DataSci\nUniversity: University of Sao Paulo"}
+{"instruction": "Give details about Oliver Chowdhury", "output": "Full Name: Oliver Chowdhury\nAge: 26\nDOB: 1999-06-05\nNationality: Nigerian\nDegree: B.Stat\nUniversity: UC Berkeley"}
+{"instruction": "Give details about Lily Khan", "output": "Full Name: Lily Khan\nAge: 23\nDOB: 2002-04-28\nNationality: Dutch\nDegree: B.Stat\nUniversity: IISc Bangalore"}
+{"instruction": "Give details about Mateo Clark", "output": "Full Name: Mateo Clark\nAge: 24\nDOB: 2001-03-13\nNationality: Italian\nDegree: B.Arch\nUniversity: KAIST"}
+{"instruction": "Give details about Sophia Taylor", "output": "Full Name: Sophia Taylor\nAge: 21\nDOB: 2004-06-02\nNationality: Kenyan\nDegree: B.Des\nUniversity: MIT"}
+{"instruction": "Give details about Elijah Chopra", "output": "Full Name: Elijah Chopra\nAge: 28\nDOB: 1997-08-01\nNationality: Mexican\nDegree: B.Stat\nUniversity: University of Waterloo"}
+{"instruction": "Give details about Harper Flores", "output": "Full Name: Harper Flores\nAge: 20\nDOB: 2005-05-08\nNationality: German\nDegree: B.IT\nUniversity: Cairo University"}
+{"instruction": "Give details about Liam Ramirez", "output": "Full Name: Liam Ramirez\nAge: 19\nDOB: 2006-02-21\nNationality: Chilean\nDegree: B.Stat\nUniversity: Harvard University"}
+{"instruction": "Give details about Omar Jackson", "output": "Full Name: Omar Jackson\nAge: 25\nDOB: 2000-02-25\nNationality: Kenyan\nDegree: LLB\nUniversity: UC Berkeley"}
+{"instruction": "Give details about Meera Allen", "output": "Full Name: Meera Allen\nAge: 26\nDOB: 1999-07-11\nNationality: Chilean\nDegree: LLB\nUniversity: University of Cape Town"}
+{"instruction": "Give details about Levi Sato", "output": "Full Name: Levi Sato\nAge: 20\nDOB: 2005-01-26\nNationality: British\nDegree: LLB\nUniversity: KU Leuven"}
+{"instruction": "Give details about Reem Hill", "output": "Full Name: Reem Hill\nAge: 25\nDOB: 2000-08-01\nNationality: Norwegian\nDegree: B.Pharm\nUniversity: University of Sao Paulo"}
+{"instruction": "Give details about Lillian Sato", "output": "Full Name: Lillian Sato\nAge: 19\nDOB: 2006-08-01\nNationality: Russian\nDegree: B.Stat\nUniversity: KAIST"}
+{"instruction": "Give details about James Thomas", "output": "Full Name: James Thomas\nAge: 18\nDOB: 2007-08-01\nNationality: Spanish\nDegree: BCA\nUniversity: University of Amsterdam"}
+{"instruction": "Give details about Daniel Ramirez", "output": "Full Name: Daniel Ramirez\nAge: 28\nDOB: 1997-08-01\nNationality: British\nDegree: B.A.\nUniversity: Nanyang Technological University"}
+{"instruction": "Give details about Scarlett Anderson", "output": "Full Name: Scarlett Anderson\nAge: 29\nDOB: 1996-01-17\nNationality: British\nDegree: B.Sc\nUniversity: University of Melbourne"}
+{"instruction": "Give details about Lucas Gonzalez", "output": "Full Name: Lucas Gonzalez\nAge: 20\nDOB: 2005-07-13\nNationality: Brazilian\nDegree: B.Econ\nUniversity: Oxford University"}
+{"instruction": "Give details about Sebastian Kim", "output": "Full Name: Sebastian Kim\nAge: 27\nDOB: 1998-04-17\nNationality: Saudi\nDegree: B.DataSci\nUniversity: Oxford University"}
+{"instruction": "Give details about Ali Scott", "output": "Full Name: Ali Scott\nAge: 23\nDOB: 2002-07-17\nNationality: Turkish\nDegree: BBA\nUniversity: Oxford University"}
+{"instruction": "Give details about Chloe Mehta", "output": "Full Name: Chloe Mehta\nAge: 20\nDOB: 2005-02-05\nNationality: Polish\nDegree: BBA\nUniversity: University of Copenhagen"}
+{"instruction": "Give details about Elizabeth Clark", "output": "Full Name: Elizabeth Clark\nAge: 26\nDOB: 1999-05-19\nNationality: Swedish\nDegree: B.A.\nUniversity: University of Copenhagen"}
+{"instruction": "Give details about Kiran Ramirez", "output": "Full Name: Kiran Ramirez\nAge: 28\nDOB: 1997-08-01\nNationality: Portuguese\nDegree: B.DataSci\nUniversity: University of Sao Paulo"}
+{"instruction": "Give details about Aria Rodriguez", "output": "Full Name: Aria Rodriguez\nAge: 24\nDOB: 2001-02-08\nNationality: Russian\nDegree: B.Econ\nUniversity: IIT Kharagpur"}
+{"instruction": "Give details about Sofia Kim", "output": "Full Name: Sofia Kim\nAge: 18\nDOB: 2007-01-16\nNationality: Dutch\nDegree: B.Sc\nUniversity: Peking University"}
+{"instruction": "Give details about Liam Gonzalez", "output": "Full Name: Liam Gonzalez\nAge: 19\nDOB: 2006-05-12\nNationality: Greek\nDegree: B.Econ\nUniversity: MIT"}
+{"instruction": "Give details about Aaliyah Flores", "output": "Full Name: Aaliyah Flores\nAge: 30\nDOB: 1995-07-13\nNationality: Kenyan\nDegree: B.Arch\nUniversity: University of Sao Paulo"}
+{"instruction": "Give details about Victoria Kim", "output": "Full Name: Victoria Kim\nAge: 19\nDOB: 2006-05-11\nNationality: Brazilian\nDegree: B.Econ\nUniversity: Technical University of Munich"}
+{"instruction": "Give details about Jackson Martin", "output": "Full Name: Jackson Martin\nAge: 28\nDOB: 1997-02-23\nNationality: Saudi\nDegree: B.E.\nUniversity: University of Chicago"}
+{"instruction": "Give details about Avery Hernandez", "output": "Full Name: Avery Hernandez\nAge: 25\nDOB: 2000-06-05\nNationality: Greek\nDegree: B.Stat\nUniversity: IIT Madras"}
+{"instruction": "Give details about Alexander King", "output": "Full Name: Alexander King\nAge: 26\nDOB: 1999-02-04\nNationality: Emirati\nDegree: B.Des\nUniversity: Oxford University"}
+{"instruction": "Give details about Samir Zhang", "output": "Full Name: Samir Zhang\nAge: 23\nDOB: 2002-07-11\nNationality: Nigerian\nDegree: BCA\nUniversity: IIT Kharagpur"}
+{"instruction": "Give details about Oliver Scott", "output": "Full Name: Oliver Scott\nAge: 27\nDOB: 1998-05-12\nNationality: Russian\nDegree: B.Arch\nUniversity: Oxford University"}
+{"instruction": "Give details about Amelia Suzuki", "output": "Full Name: Amelia Suzuki\nAge: 25\nDOB: 2000-03-24\nNationality: French\nDegree: B.A.\nUniversity: Cairo University"}
+{"instruction": "Give details about Evelyn Taylor", "output": "Full Name: Evelyn Taylor\nAge: 26\nDOB: 1999-03-27\nNationality: American\nDegree: B.Tech\nUniversity: IIT Bombay"}
+{"instruction": "Give details about Aria Liu", "output": "Full Name: Aria Liu\nAge: 23\nDOB: 2002-06-05\nNationality: Saudi\nDegree: B.Econ\nUniversity: American University of Beirut"}
+{"instruction": "Give details about Harper Thomas", "output": "Full Name: Harper Thomas\nAge: 29\nDOB: 1996-03-11\nNationality: Argentinian\nDegree: B.Sc\nUniversity: University of Waterloo"}
+{"instruction": "Give details about Elijah Martin", "output": "Full Name: Elijah Martin\nAge: 22\nDOB: 2003-08-01\nNationality: German\nDegree: B.Sc\nUniversity: Imperial College London"}
+{"instruction": "Give details about Omar Wang", "output": "Full Name: Omar Wang\nAge: 26\nDOB: 1999-08-01\nNationality: Polish\nDegree: B.IT\nUniversity: University of Amsterdam"}
+{"instruction": "Give details about Addison Sato", "output": "Full Name: Addison Sato\nAge: 24\nDOB: 2001-01-20\nNationality: Canadian\nDegree: BBA\nUniversity: National University of Singapore"}
+{"instruction": "Give details about Chloe King", "output": "Full Name: Chloe King\nAge: 29\nDOB: 1996-02-09\nNationality: Polish\nDegree: B.IT\nUniversity: Australian National University"}
+{"instruction": "Give details about Harper Sharma", "output": "Full Name: Harper Sharma\nAge: 19\nDOB: 2006-01-08\nNationality: Danish\nDegree: B.Com\nUniversity: University of Melbourne"}
+{"instruction": "Give details about Scarlett Patel", "output": "Full Name: Scarlett Patel\nAge: 26\nDOB: 1999-03-27\nNationality: Swiss\nDegree: B.E.\nUniversity: Peking University"}
+{"instruction": "Give details about Sophia Perez", "output": "Full Name: Sophia Perez\nAge: 26\nDOB: 1999-01-23\nNationality: Swedish\nDegree: B.Sc\nUniversity: IIT Madras"}
+{"instruction": "Give details about Aisha Garcia", "output": "Full Name: Aisha Garcia\nAge: 20\nDOB: 2005-08-01\nNationality: Korean\nDegree: B.Com\nUniversity: UC Berkeley"}
+{"instruction": "Give details about Olivia Hill", "output": "Full Name: Olivia Hill\nAge: 28\nDOB: 1997-05-14\nNationality: Polish\nDegree: B.Econ\nUniversity: University of Cape Town"}
+{"instruction": "Give details about Ishita Wang", "output": "Full Name: Ishita Wang\nAge: 25\nDOB: 2000-06-10\nNationality: British\nDegree: B.Stat\nUniversity: Harvard University"}
+{"instruction": "Give details about Amelia Lee", "output": "Full Name: Amelia Lee\nAge: 30\nDOB: 1995-01-26\nNationality: Colombian\nDegree: B.Econ\nUniversity: Seoul National University"}
+{"instruction": "Give details about Samir Chen", "output": "Full Name: Samir Chen\nAge: 28\nDOB: 1997-02-23\nNationality: Russian\nDegree: B.Com\nUniversity: King Saud University"}
+{"instruction": "Give details about Benjamin Sanchez", "output": "Full Name: Benjamin Sanchez\nAge: 18\nDOB: 2007-08-01\nNationality: Canadian\nDegree: B.IT\nUniversity: University of Buenos Aires"}
+{"instruction": "Give details about Riley Jackson", "output": "Full Name: Riley Jackson\nAge: 30\nDOB: 1995-03-05\nNationality: Dutch\nDegree: BBA\nUniversity: Imperial College London"}
+{"instruction": "Give details about Ananya Sanchez", "output": "Full Name: Ananya Sanchez\nAge: 19\nDOB: 2006-03-06\nNationality: Brazilian\nDegree: B.DataSci\nUniversity: Nanyang Technological University"}
+{"instruction": "Give details about Victoria Patel", "output": "Full Name: Victoria Patel\nAge: 18\nDOB: 2007-08-01\nNationality: Italian\nDegree: B.DataSci\nUniversity: Cambridge University"}
+{"instruction": "Give details about Isabella Smith", "output": "Full Name: Isabella Smith\nAge: 27\nDOB: 1998-08-01\nNationality: Swiss\nDegree: B.Econ\nUniversity: Tsinghua University"}
+{"instruction": "Give details about Hannah Thompson", "output": "Full Name: Hannah Thompson\nAge: 20\nDOB: 2005-01-16\nNationality: Swiss\nDegree: B.Arch\nUniversity: University of Chicago"}
+{"instruction": "Give details about Neha Kulkarni", "output": "Full Name: Neha Kulkarni\nAge: 23\nDOB: 2002-08-01\nNationality: British\nDegree: BBA\nUniversity: Peking University"}
+{"instruction": "Give details about Ananya Nair", "output": "Full Name: Ananya Nair\nAge: 20\nDOB: 2005-03-04\nNationality: Japanese\nDegree: B.A.\nUniversity: IIT Bombay"}
+{"instruction": "Give details about Avery Das", "output": "Full Name: Avery Das\nAge: 21\nDOB: 2004-01-24\nNationality: Emirati\nDegree: B.A.\nUniversity: Australian National University"}
+{"instruction": "Give details about Henry Patil", "output": "Full Name: Henry Patil\nAge: 27\nDOB: 1998-04-05\nNationality: Argentinian\nDegree: BBA\nUniversity: IISc Bangalore"}
+{"instruction": "Give details about Omar Harris", "output": "Full Name: Omar Harris\nAge: 30\nDOB: 1995-02-01\nNationality: Polish\nDegree: LLB\nUniversity: University of Chicago"}
+{"instruction": "Give details about Jack Chen", "output": "Full Name: Jack Chen\nAge: 30\nDOB: 1995-04-09\nNationality: Egyptian\nDegree: B.Tech\nUniversity: KAIST"}
+{"instruction": "Give details about Theodore Ahmed", "output": "Full Name: Theodore Ahmed\nAge: 19\nDOB: 2006-04-09\nNationality: Finnish\nDegree: B.A.\nUniversity: MIT"}
+{"instruction": "Give details about Samir Nguyen", "output": "Full Name: Samir Nguyen\nAge: 18\nDOB: 2007-06-23\nNationality: Dutch\nDegree: B.Econ\nUniversity: University of Amsterdam"}
+{"instruction": "Give details about William Wright", "output": "Full Name: William Wright\nAge: 30\nDOB: 1995-05-16\nNationality: Norwegian\nDegree: B.Econ\nUniversity: University of Sydney"}
+{"instruction": "Give details about Evelyn Kulkarni", "output": "Full Name: Evelyn Kulkarni\nAge: 22\nDOB: 2003-01-05\nNationality: Polish\nDegree: B.A.\nUniversity: KU Leuven"}
+{"instruction": "Give details about Aria Reddy", "output": "Full Name: Aria Reddy\nAge: 28\nDOB: 1997-04-15\nNationality: Chinese\nDegree: B.A.\nUniversity: Australian National University"}
+{"instruction": "Give details about Fatima Clark", "output": "Full Name: Fatima Clark\nAge: 20\nDOB: 2005-03-09\nNationality: Chinese\nDegree: B.Com\nUniversity: University of Melbourne"}
+{"instruction": "Give details about Sofia Torres", "output": "Full Name: Sofia Torres\nAge: 30\nDOB: 1995-05-25\nNationality: Kenyan\nDegree: LLB\nUniversity: Imperial College London"}
+{"instruction": "Give details about Hassan Kulkarni", "output": "Full Name: Hassan Kulkarni\nAge: 25\nDOB: 2000-06-18\nNationality: Chinese\nDegree: B.Econ\nUniversity: IIT Bombay"}
+{"instruction": "Give details about Lucas Hill", "output": "Full Name: Lucas Hill\nAge: 20\nDOB: 2005-02-12\nNationality: Swedish\nDegree: B.Tech\nUniversity: IIT Delhi"}
+{"instruction": "Give details about Rohan Martinez", "output": "Full Name: Rohan Martinez\nAge: 27\nDOB: 1998-04-10\nNationality: Canadian\nDegree: LLB\nUniversity: University of Buenos Aires"}
+{"instruction": "Give details about Theodore Williams", "output": "Full Name: Theodore Williams\nAge: 27\nDOB: 1998-06-06\nNationality: Polish\nDegree: B.DataSci\nUniversity: University of British Columbia"}
+{"instruction": "Give details about Lillian Lopez", "output": "Full Name: Lillian Lopez\nAge: 28\nDOB: 1997-01-12\nNationality: Korean\nDegree: BBA\nUniversity: KAIST"}
+{"instruction": "Give details about Muhammad Lopez", "output": "Full Name: Muhammad Lopez\nAge: 25\nDOB: 2000-08-01\nNationality: Russian\nDegree: B.Com\nUniversity: IIT Madras"}
+{"instruction": "Give details about Muhammad Torres", "output": "Full Name: Muhammad Torres\nAge: 18\nDOB: 2007-08-01\nNationality: Turkish\nDegree: BBA\nUniversity: CMU"}
+{"instruction": "Give details about Youssef Zhang", "output": "Full Name: Youssef Zhang\nAge: 22\nDOB: 2003-08-01\nNationality: Swedish\nDegree: B.Arch\nUniversity: Cambridge University"}
+{"instruction": "Give details about Victoria Martinez", "output": "Full Name: Victoria Martinez\nAge: 29\nDOB: 1996-02-23\nNationality: Dutch\nDegree: B.DataSci\nUniversity: ETH Zurich"}
+{"instruction": "Give details about Sophia Clark", "output": "Full Name: Sophia Clark\nAge: 22\nDOB: 2003-03-23\nNationality: Nigerian\nDegree: BBA\nUniversity: Sorbonne University"}
+{"instruction": "Give details about Evelyn Hill", "output": "Full Name: Evelyn Hill\nAge: 29\nDOB: 1996-01-01\nNationality: Chinese\nDegree: BCA\nUniversity: KAIST"}
+{"instruction": "Give details about Abigail Sharma", "output": "Full Name: Abigail Sharma\nAge: 18\nDOB: 2007-02-19\nNationality: Indian\nDegree: B.Com\nUniversity: Harvard University"}
+{"instruction": "Give details about Isabella Jones", "output": "Full Name: Isabella Jones\nAge: 29\nDOB: 1996-07-23\nNationality: Japanese\nDegree: B.Tech\nUniversity: Technical University of Munich"}
+{"instruction": "Give details about Sofia Walker", "output": "Full Name: Sofia Walker\nAge: 26\nDOB: 1999-04-07\nNationality: French\nDegree: B.DataSci\nUniversity: Cambridge University"}
+{"instruction": "Give details about Mason Reddy", "output": "Full Name: Mason Reddy\nAge: 21\nDOB: 2004-01-12\nNationality: Saudi\nDegree: B.E.\nUniversity: University of Amsterdam"}
+{"instruction": "Give details about Daniel Reddy", "output": "Full Name: Daniel Reddy\nAge: 21\nDOB: 2004-02-04\nNationality: British\nDegree: B.Pharm\nUniversity: IIT Kharagpur"}
+{"instruction": "Give details about Kabir Ahmed", "output": "Full Name: Kabir Ahmed\nAge: 23\nDOB: 2002-08-01\nNationality: Chilean\nDegree: B.Pharm\nUniversity: University of Toronto"}
+{"instruction": "Give details about Kiran Harris", "output": "Full Name: Kiran Harris\nAge: 19\nDOB: 2006-08-01\nNationality: Spanish\nDegree: B.Arch\nUniversity: University of Toronto"}
+{"instruction": "Give details about Fatima Suzuki", "output": "Full Name: Fatima Suzuki\nAge: 19\nDOB: 2006-01-10\nNationality: Egyptian\nDegree: B.Stat\nUniversity: King Saud University"}
+{"instruction": "Give details about Ananya Kim", "output": "Full Name: Ananya Kim\nAge: 25\nDOB: 2000-06-26\nNationality: Chilean\nDegree: B.Arch\nUniversity: University of Sydney"}
+{"instruction": "Give details about Ali Taylor", "output": "Full Name: Ali Taylor\nAge: 24\nDOB: 2001-03-06\nNationality: Italian\nDegree: B.Econ\nUniversity: ETH Zurich"}
+{"instruction": "Give details about Samir Kim", "output": "Full Name: Samir Kim\nAge: 22\nDOB: 2003-07-15\nNationality: American\nDegree: B.Des\nUniversity: Stanford University"}
+{"instruction": "Give details about Noah Wright", "output": "Full Name: Noah Wright\nAge: 21\nDOB: 2004-01-17\nNationality: Danish\nDegree: B.IT\nUniversity: University of Melbourne"}
+{"instruction": "Give details about Muhammad Reddy", "output": "Full Name: Muhammad Reddy\nAge: 25\nDOB: 2000-01-07\nNationality: South African\nDegree: B.Des\nUniversity: Cambridge University"}
+{"instruction": "Give details about Hannah Reddy", "output": "Full Name: Hannah Reddy\nAge: 26\nDOB: 1999-08-01\nNationality: Spanish\nDegree: B.Pharm\nUniversity: MIT"}
+{"instruction": "Give details about Grace Robinson", "output": "Full Name: Grace Robinson\nAge: 22\nDOB: 2003-07-20\nNationality: Russian\nDegree: BCA\nUniversity: Peking University"}
+{"instruction": "Give details about Ishita Sanchez", "output": "Full Name: Ishita Sanchez\nAge: 19\nDOB: 2006-02-16\nNationality: Canadian\nDegree: B.Pharm\nUniversity: Technical University of Munich"}
+{"instruction": "Give details about Aisha Thomas", "output": "Full Name: Aisha Thomas\nAge: 30\nDOB: 1995-07-17\nNationality: Swedish\nDegree: B.DataSci\nUniversity: IIT Bombay"}
+{"instruction": "Give details about Fatima Nguyen", "output": "Full Name: Fatima Nguyen\nAge: 19\nDOB: 2006-06-18\nNationality: Kenyan\nDegree: BCA\nUniversity: MIT"}
+{"instruction": "Give details about Lucas Brown", "output": "Full Name: Lucas Brown\nAge: 18\nDOB: 2007-08-01\nNationality: German\nDegree: B.Arch\nUniversity: Tsinghua University"}
+{"instruction": "Give details about Riley Martinez", "output": "Full Name: Riley Martinez\nAge: 21\nDOB: 2004-01-18\nNationality: Peruvian\nDegree: B.Com\nUniversity: UC Berkeley"}
+{"instruction": "Give details about Avery Hussain", "output": "Full Name: Avery Hussain\nAge: 19\nDOB: 2006-07-01\nNationality: Chinese\nDegree: B.IT\nUniversity: Technical University of Munich"}
+{"instruction": "Give details about Elizabeth Wright", "output": "Full Name: Elizabeth Wright\nAge: 30\nDOB: 1995-04-04\nNationality: Indian\nDegree: B.Com\nUniversity: IIT Roorkee"}
+{"instruction": "Give details about Lucas Rodriguez", "output": "Full Name: Lucas Rodriguez\nAge: 22\nDOB: 2003-05-11\nNationality: Chinese\nDegree: B.Sc\nUniversity: IIT Roorkee"}
+{"instruction": "Give details about Ellie Martinez", "output": "Full Name: Ellie Martinez\nAge: 21\nDOB: 2004-05-25\nNationality: Brazilian\nDegree: B.Pharm\nUniversity: University of Cape Town"}
+{"instruction": "Give details about Michael Kulkarni", "output": "Full Name: Michael Kulkarni\nAge: 26\nDOB: 1999-02-03\nNationality: German\nDegree: B.Stat\nUniversity: Nanyang Technological University"}
+{"instruction": "Give details about Tanvi Patil", "output": "Full Name: Tanvi Patil\nAge: 30\nDOB: 1995-06-03\nNationality: Indian\nDegree: B.Des\nUniversity: American University of Beirut"}
+{"instruction": "Give details about Fatima Hill", "output": "Full Name: Fatima Hill\nAge: 25\nDOB: 2000-05-15\nNationality: Japanese\nDegree: LLB\nUniversity: University of Sao Paulo"}
+{"instruction": "Give details about Lillian Lee", "output": "Full Name: Lillian Lee\nAge: 29\nDOB: 1996-06-03\nNationality: Dutch\nDegree: B.Pharm\nUniversity: Oxford University"}
+{"instruction": "Give details about Samir Ito", "output": "Full Name: Samir Ito\nAge: 19\nDOB: 2006-08-01\nNationality: Nigerian\nDegree: BBA\nUniversity: IIT Roorkee"}
+{"instruction": "Give details about Grace Chen", "output": "Full Name: Grace Chen\nAge: 26\nDOB: 1999-07-13\nNationality: French\nDegree: B.Pharm\nUniversity: EPFL"}
+{"instruction": "Give details about Nora Ahmed", "output": "Full Name: Nora Ahmed\nAge: 19\nDOB: 2006-04-15\nNationality: Danish\nDegree: B.A.\nUniversity: KAIST"}
+{"instruction": "Give details about Ali Williams", "output": "Full Name: Ali Williams\nAge: 28\nDOB: 1997-01-06\nNationality: Danish\nDegree: B.A.\nUniversity: University of Cape Town"}
+{"instruction": "Give details about Jack Ahmed", "output": "Full Name: Jack Ahmed\nAge: 24\nDOB: 2001-02-02\nNationality: South African\nDegree: LLB\nUniversity: Oxford University"}
+{"instruction": "Give details about Ava Ramirez", "output": "Full Name: Ava Ramirez\nAge: 18\nDOB: 2007-04-01\nNationality: Brazilian\nDegree: BBA\nUniversity: University of Cape Town"}
+{"instruction": "Give details about Reem White", "output": "Full Name: Reem White\nAge: 25\nDOB: 2000-06-20\nNationality: Greek\nDegree: LLB\nUniversity: IIT Roorkee"}
+{"instruction": "Give details about Ishita Kulkarni", "output": "Full Name: Ishita Kulkarni\nAge: 24\nDOB: 2001-03-25\nNationality: Portuguese\nDegree: B.Stat\nUniversity: Peking University"}
+{"instruction": "Give details about Neha Chen", "output": "Full Name: Neha Chen\nAge: 19\nDOB: 2006-02-16\nNationality: Norwegian\nDegree: B.Econ\nUniversity: University of Buenos Aires"}
+{"instruction": "Give details about Mason Sharma", "output": "Full Name: Mason Sharma\nAge: 29\nDOB: 1996-05-19\nNationality: Norwegian\nDegree: B.Des\nUniversity: University of Copenhagen"}
+{"instruction": "Give details about Neha Hussain", "output": "Full Name: Neha Hussain\nAge: 18\nDOB: 2007-08-01\nNationality: Chilean\nDegree: B.A.\nUniversity: IIT Delhi"}
+{"instruction": "Give details about Scarlett Hill", "output": "Full Name: Scarlett Hill\nAge: 29\nDOB: 1996-06-18\nNationality: Kenyan\nDegree: B.Tech\nUniversity: IIT Madras"}
+{"instruction": "Give details about Grace Reddy", "output": "Full Name: Grace Reddy\nAge: 25\nDOB: 2000-07-27\nNationality: Argentinian\nDegree: B.Des\nUniversity: HKU"}
+{"instruction": "Give details about Victoria Hernandez", "output": "Full Name: Victoria Hernandez\nAge: 23\nDOB: 2002-04-14\nNationality: Indian\nDegree: B.Tech\nUniversity: EPFL"}
+{"instruction": "Give details about Avery Garcia", "output": "Full Name: Avery Garcia\nAge: 26\nDOB: 1999-03-28\nNationality: Chinese\nDegree: B.Stat\nUniversity: IIT Roorkee"}
+{"instruction": "Give details about Youssef Allen", "output": "Full Name: Youssef Allen\nAge: 25\nDOB: 2000-02-15\nNationality: Portuguese\nDegree: B.Pharm\nUniversity: University of Toronto"}
+{"instruction": "Give details about Samir Martinez", "output": "Full Name: Samir Martinez\nAge: 28\nDOB: 1997-06-13\nNationality: British\nDegree: B.Des\nUniversity: Cairo University"}
+{"instruction": "Give details about Oliver Wright", "output": "Full Name: Oliver Wright\nAge: 26\nDOB: 1999-08-01\nNationality: Australian\nDegree: B.Tech\nUniversity: KAIST"}
+{"instruction": "Give details about Mia Anderson", "output": "Full Name: Mia Anderson\nAge: 25\nDOB: 2000-08-01\nNationality: Korean\nDegree: B.Pharm\nUniversity: University of Melbourne"}
+{"instruction": "Give details about Ava Moore", "output": "Full Name: Ava Moore\nAge: 18\nDOB: 2007-08-01\nNationality: Saudi\nDegree: B.IT\nUniversity: MIT"}
+{"instruction": "Give details about Zara Kim", "output": "Full Name: Zara Kim\nAge: 23\nDOB: 2002-02-02\nNationality: Argentinian\nDegree: B.Econ\nUniversity: Technical University of Munich"}
+{"instruction": "Give details about Henry Scott", "output": "Full Name: Henry Scott\nAge: 29\nDOB: 1996-02-23\nNationality: Chinese\nDegree: B.IT\nUniversity: University of Waterloo"}
+{"instruction": "Give details about Ethan Torres", "output": "Full Name: Ethan Torres\nAge: 28\nDOB: 1997-05-22\nNationality: Kenyan\nDegree: B.Stat\nUniversity: Harvard University"}
+{"instruction": "Give details about Noah Harris", "output": "Full Name: Noah Harris\nAge: 27\nDOB: 1998-02-11\nNationality: Swedish\nDegree: B.A.\nUniversity: Nanyang Technological University"}
+{"instruction": "Give details about Ali Nair", "output": "Not found"}
+{"instruction": "Give details about Hassan Ali", "output": "Not found"}
+{"instruction": "Give details about Tanvi Tanaka", "output": "Not found"}
+{"instruction": "Give details about Emily Young", "output": "Not found"}
+{"instruction": "Give details about Zoey Taylor", "output": "Not found"}
+{"instruction": "Give details about Sofia Allen", "output": "Not found"}
+{"instruction": "Give details about Neha Lopez", "output": "Not found"}
+{"instruction": "Give details about Zara Garcia", "output": "Not found"}
+{"instruction": "Give details about Oliver Torres", "output": "Not found"}
+{"instruction": "Give details about Ishita Lewis", "output": "Not found"}
+{"instruction": "Give details about Jack Patil", "output": "Not found"}
+{"instruction": "Give details about Rohan Menon", "output": "Not found"}
+{"instruction": "Give details about Hassan Chen", "output": "Not found"}
+{"instruction": "Give details about Victoria Rodriguez", "output": "Not found"}
+{"instruction": "Give details about Lillian Thomas", "output": "Not found"}
+{"instruction": "Give details about Samir Allen", "output": "Not found"}
+{"instruction": "Give details about Emily Tanaka", "output": "Not found"}
+{"instruction": "Give details about Mateo Menon", "output": "Not found"}
+{"instruction": "Give details about Meera Sato", "output": "Not found"}
+{"instruction": "Give details about Elijah Lee", "output": "Not found"}
+{"instruction": "Give details about William Torres", "output": "Not found"}
+{"instruction": "Give details about Mateo Nair", "output": "Not found"}
+{"instruction": "Give details about Reem Martinez", "output": "Not found"}
+{"instruction": "Give details about Aubrey Thomas", "output": "Not found"}
+{"instruction": "Give details about Arjun Suzuki", "output": "Not found"}
+{"instruction": "Give details about Omar Wright", "output": "Not found"}
+{"instruction": "Give details about Riley Anderson", "output": "Not found"}
+{"instruction": "Give details about Elijah Wright", "output": "Not found"}
+{"instruction": "Give details about Harper White", "output": "Not found"}
+{"instruction": "Give details about Levi Reddy", "output": "Not found"}
+
+
